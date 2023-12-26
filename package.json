@@ -7,6 +7,10 @@
   "scripts": {
     "test": "play"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meri-imperiumi/signalk-autostate.git"
+  },
   "keywords": [
     "signalk-node-server-plugin",
     "signalk-category-notifications"
