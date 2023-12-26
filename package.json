@@ -1,0 +1,16 @@
+{
+  "name": "server-alarm",
+  "version": "1.0.0",
+  "description": "Play sound alarm on usb PI server",
+  "main": "index.js",
+  "signalk-plugin-enabled-by-default": true,
+  "scripts": {
+    "test": "play"
+  },
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-category-notifications"
+  ],
+  "author": "Kalymnos",
+  "license": "ISC"
+}
