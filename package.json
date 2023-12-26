@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/voilier-kalymnos/server_alarm.git
+    "url": "git://github.com/voilier-kalymnos/server_alarm.git"
   },
   "keywords": [
     "signalk-node-server-plugin",
